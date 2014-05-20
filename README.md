@@ -54,5 +54,5 @@ Wobei gilt:
 Verzichtserklärung - Jede der vorgenannten Bedingungen kann aufgehoben werden, sofern Sie die ausdrückliche Einwilligung des Rechteinhabers dazu erhalten.
 Die Veröffentlichung dieser Software erfolgt in der Hoffnung, daß sie Ihnen von Nutzen sein wird, aber OHNE IRGENDEINE GARANTIE, sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK. Die Nutzung dieser Software erfolgt auf eigenes Risiko!
 =====
-This project needs ccu.io
-This project allow connection to Onkyo network enabled receiver with ISCP protocol
+* This project needs ccu.io
+* This project allow connection to OWFS-Server
