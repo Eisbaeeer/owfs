@@ -3,10 +3,10 @@ DRAFT VERSION - still not formated
 ###
 Prerequisites:
 
-sudo apt-get install owfs
-npm install owfs
-npm install colors
-npm install express
+* sudo apt-get install owfs
+* npm install owfs
+* npm install colors
+* npm install express
 
 OWFS Client for CCU.IO
 ======
@@ -39,8 +39,8 @@ Schnittstelle zu 1wire Geraeten.
 
 ## Lizenz
 
-Copyright (c) 2014 Ralf Muenck [muenk@getcom.de]
-(c) getcom IT Services [http://www.getcom.de](http://www.getcom.de)
+Copyright (c) 2014 Ralf Muenck [muenk@getcom.de] & Eisbaeeer [Eisbaeeer@gmail.com]
+(c) getcom IT Services [http://www.getcom.de](http://www.getcom.de) &  [http://www.weimars.net](http://www.weimars.net)
 
 Lizenz: [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/de/)
 
